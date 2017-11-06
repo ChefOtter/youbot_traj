@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: youbot_inv_kine
+Description: Description of youbot_inv_kine
+Version: 0.0.0
+Cflags: -I/usr/include/eigen3
+Libs: -L/usr/local/lib 
+Requires: roscpp
